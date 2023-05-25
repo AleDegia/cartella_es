@@ -9,7 +9,8 @@ public class somma {
         int a= input.nextInt();
         System.out.println("inserisci il secondo numero");
         int b= input.nextInt();
-        System.out.println("la somma Ã¨: "+ (a+b));
+        int c= 0;
+        System.out.println("la somma è: "+ (a+b));
 
     }
     
